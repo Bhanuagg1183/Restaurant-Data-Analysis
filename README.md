@@ -27,6 +27,8 @@ Analyze the distribution of restaurants across different cities or countries.
 
 Determine if there is any correlation between the restaurant's location and its rating.
 
+----------------------------------------------------------------------------------------------------
+
 ### Level 2
 #### Task 1: Table Booking and Online Delivery
 
@@ -49,6 +51,8 @@ Identify the color that represents the highest average rating among different pr
 Extract additional features from the existing columns, such as the length of the restaurant name or address.
 
 Create new features like "Has Table Booking" or "Has Online Delivery" by encoding categorical variables.
+
+----------------------------------------------------------------------------------------------------
 
 ### Level 3
 #### Task 1: Predictive Modeling
