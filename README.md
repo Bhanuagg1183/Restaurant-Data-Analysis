@@ -1,6 +1,5 @@
 # Restaurant Data Analysis
-
-## Level 1 
+<!-- Level 1 -->
 ### Data Exploration and Preprocessing
 
 - Explore the dataset and identify the number of rows and columns.
@@ -29,7 +28,7 @@
 
 ----------------------------------------------------------------------------------------------------
 
-## Level 2
+<!-- Level 2 -->
 ### Table Booking and Online Delivery
 
 - Determine the percentage of restaurants that offer table booking and online delivery.
@@ -54,7 +53,7 @@
 
 ----------------------------------------------------------------------------------------------------
 
-## Level 3
+<!-- Level 3 -->
 ### Predictive Modeling
 
 - Build a regression model to predict the aggregate rating of a restaurant based on available features. 
